@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, cascadia code",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
